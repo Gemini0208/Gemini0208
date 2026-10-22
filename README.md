@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Gemini Hiranyada De Silva
 
-### AI Engineer • Machine Learning • Generative AI
-
-🎓 BSc (Hons) Artificial Intelligence Undergraduate  
+🎓 BSc (Hons) Artificial Intelligence 3rd Year Undergraduate  
 **University of Moratuwa, Sri Lanka**
 
 *Building intelligent applications by combining AI research with software engineering.*
