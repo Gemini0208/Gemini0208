@@ -1,6 +1,6 @@
  <div align="center">
 
-# 👋 Hi, I'm Gemini Hiranyada De Silva
+# 👋 Hi, I'm Gemini De Silva
 
 🎓 BSc (Hons) Artificial Intelligence 3rd Year Undergraduate  
 **University of Moratuwa, Sri Lanka**
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c&theme=dark" alt="Embedded systems"/>
+<img src="https://skillicons.dev/icons?i=arduino,c&theme=dark" alt="Embedded systems"/>
 
 <br/><br/>
 
