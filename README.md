@@ -31,20 +31,33 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI, Machine Learning & Generative AI
+🤖 AI, Machine Learning & Generative AI
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Text Classification & TF-IDF
-- Sentence Transformers & Vector Embeddings
-- Semantic Search & Retrieval-Augmented Generation (RAG)
-- LLM API Integration & Prompt Engineering
+
+
+
+
+
+Machine Learning & Deep Learning
+
+Natural Language Processing (NLP)
+
+Text Classification & TF-IDF
+
+Sentence Transformers & Vector Embeddings
+
+Semantic Search & Information Retrieval
+
+Retrieval-Augmented Generation (RAG)
+
+Agentic AI & AI Agents
+
+Large Language Model (LLM) Integration
+
+Prompt Engineering & LLM Applications
+
+Model Training & Evaluation
 
 ### ☁️ Cloud & Backend
 
