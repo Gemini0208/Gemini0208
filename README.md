@@ -1,111 +1,137 @@
-# Hi there, I'm Gemini Hiranyada De Silva 👋
+ <div align="center">
 
-🎓 Third-year BSc (Hons) Artificial Intelligence undergraduate at the **University of Moratuwa, Sri Lanka**.
+# 👋 Hi, I'm Gemini Hiranyada De Silva
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Natural Language Processing, and Generative AI.
+### AI Engineer • Machine Learning • Generative AI
 
-💡 Passionate about building intelligent applications by combining machine learning with software engineering.
+🎓 BSc (Hons) Artificial Intelligence Undergraduate  
+**University of Moratuwa, Sri Lanka**
 
----
+*Building intelligent applications by combining AI research with software engineering.*
 
-## 🛠️ Skills & Technologies
+<a href="https://github.com/Gemini0208">
+  <img src="https://img.shields.io/badge/GitHub-Gemini0208-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:geminidesilva83@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Mobile Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-🤖 AI, Machine Learning & Generative AI
-
-
-
-
-
-
-
-Machine Learning & Deep Learning
-
-Natural Language Processing (NLP)
-
-Text Classification & TF-IDF
-
-Sentence Transformers & Vector Embeddings
-
-Semantic Search & Information Retrieval
-
-Retrieval-Augmented Generation (RAG)
-
-Agentic AI & AI Agents
-
-Large Language Model (LLM) Integration
-
-Prompt Engineering & LLM Applications
-
-Model Training & Evaluation
-
-### ☁️ Cloud & Backend
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-- Relational Database Design
-
-### ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🔌 IoT & Embedded Systems
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-- EasyEDA
-- Fritzing
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🧠 AI & Intelligent Systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gemini0208-181717?style=for-the-badge&logo=github)](https://github.com/Gemini0208)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gemini-de-silva-3100ba240)
+<div align="center">
 
-📧 **Email:** geminidesilva83@gmail.com
+| 🤖 Machine Learning | 🪄 Generative AI | 🔎 RAG & Retrieval | 🧩 Agentic AI |
+|:---:|:---:|:---:|:---:|
+| Model Training | LLM Applications | Vector Embeddings | AI Agents |
+| Classification | Prompt Engineering | Semantic Search | Tool Integration |
+| Model Evaluation | Gemini API | Retrieval-Augmented Generation | Agentic Workflows |
+| scikit-learn · PyTorch | LLM Integration | Sentence Transformers | Intelligent Automation |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/RAG-0077B5?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6C47FF?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/LLMs-222222?style=for-the-badge" alt="LLMs"/>
+
+</div>
 
 ---
 
-⭐  *Interested in AI, Machine Learning, and building intelligent systems that solve real-world problems.*
+## 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,php,java,js,ts,mysql&theme=dark" alt="Programming languages"/>
+
+</div>
+
+---
+
+## 🌐 Web & Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,spring,nodejs,html,css&theme=dark" alt="Web and mobile technologies"/>
+
+</div>
+
+---
+
+## ☁️ Cloud, Backend & APIs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,supabase,fastapi&theme=dark" alt="Cloud and backend technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+
+</div>
+
+---
+
+## 🗄️ Databases & Data Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase&theme=dark" alt="Databases"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Relational_Database_Design-4479A1?style=for-the-badge" alt="Relational database design"/>
+<img src="https://img.shields.io/badge/Vector_Search-6C47FF?style=for-the-badge" alt="Vector search"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector"/>
+
+</div>
+
+---
+
+## ⚙️ DevOps & Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,maven,postman,jira,githubactions,figma&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+## 🔌 IoT & Embedded Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c&theme=dark" alt="Embedded systems"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
+<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge" alt="EasyEDA"/>
+<img src="https://img.shields.io/badge/Fritzing-B71C1C?style=for-the-badge" alt="Fritzing"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge" alt="ESP32"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Always Learning. Always Building.
+
+*Exploring the intersection of Machine Learning, RAG, Agentic AI, and software engineering.*
+
+<a href="https://github.com/Gemini0208">
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>
+
+</div>
